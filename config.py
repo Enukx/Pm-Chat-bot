@@ -8,11 +8,11 @@ from pyrogram.errors import *
 from pyrogram.types import *
 
 #Vars
-BOT_TOKEN = os.getenv("BOT_TOKEN", "")  # from @botfather
-API_ID = int(os.getenv("API_ID", ""))  # from https://my.telegram.org/apps
-API_HASH = os.getenv("API_HASH", "")  # from https://my.telegram.org/apps
+BOT_TOKEN = os.getenv("BOT_TOKEN", "5499202096:AAHWhyELiJl2-h1b21-HOCMx04yQlsOH28c")  # from @botfather
+API_ID = int(os.getenv("API_ID", "19456231"))  # from https://my.telegram.org/apps
+API_HASH = os.getenv("API_HASH", "a32ee947a133b10b9533012c4e7bf0b1")  # from https://my.telegram.org/apps
 MONGO_URI = os.getenv("MONGO_URI", "")
-force_subchannel = os.getenv("FSUB", "gishankrishka1_cloud")
+force_subchannel = os.getenv("FSUB", "xEnuka")
 OWNER_ID = int(os.environ.get("OWNER_ID", "1884885842"))
 START_STRING = os.getenv("START_STRING", "Hi {}, Welcome to  {}'s Pm Bot.")
 START_STICKER = os.getenv("START_STICKER", "CAADBQADZQQAAlHy2FQE5VU4XGjXrwI")
@@ -20,8 +20,8 @@ START_STICKER = os.getenv("START_STICKER", "CAADBQADZQQAAlHy2FQE5VU4XGjXrwI")
 PM_TXT_ATT = "<b>Message from:</b> {}\n<b>Name:</b> {}\n\n{}"
 PM_TXT_ATTS = "<b>Message from:</b> {}\n<b>Name:</b> {}"
 PM_MED_ATT = "<b>Message from:</b> {} \n<b>Name:</b> {}\n<b>Caption</b>:{}"
-FORCESUB_TEXT = "**❌ Access Denied ❌**\n\nMemehub eke nathuva Mokatada yako Botva Start Kare kkk😒😒\n♻️Join and Try Again.♻️"
-HELP_STRING = """Hello.. ❣️GIsᕼᴀɴ KʀIʜsᕼᴋᴀ❣️
+FORCESUB_TEXT = "**❌ Access Denied ❌**\n\nJoin My Channel and start Bot. \n♻️Join and Try Again.♻️"
+HELP_STRING = """Hello.. 🌴Eɴᴜᴋᴀ🌴 
 Type your query here..
 I'll respond to your query as earliest 😉"""
 
