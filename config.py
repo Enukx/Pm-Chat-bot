@@ -14,7 +14,7 @@ API_HASH = os.getenv("API_HASH", "a32ee947a133b10b9533012c4e7bf0b1")  # from htt
 MONGO_URI = os.getenv("MONGO_URI", "")
 force_subchannel = os.getenv("FSUB", "")
 OWNER_ID = int(os.environ.get("OWNER_ID", "1884885842"))
-START_STRING = os.getenv("START_STRING", "")
+START_STRING = os.getenv("START_STRING", "Hi {}, Welcome to  {}'s Pm Bot.")
 START_STICKER = os.getenv("START_STICKER", "CAADBQADZQQAAlHy2FQE5VU4XGjXrwI")
 #Strings 
 PM_TXT_ATT = "<b>Message from:</b> {}\n<b>Name:</b> {}\n\n{}"
