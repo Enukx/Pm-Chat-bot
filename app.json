@@ -26,18 +26,7 @@
         },
         "START_STRING": {
             "description": "Start Message '{} {} These are required' ",
-            "value": "✨ Hello 🙋 .
-🌺 I am The Assistant Bot Of Eɴᴜᴋᴀ .
-💫 U can contact Eɴᴜᴋᴀ By Me .
-=========================================
-- ғeel ғree тo reporт вυɢѕ 🐞.
-- ѕυɢɢeѕтιoɴѕ αre welcoмe 🐣.
-- coɴтαcт αɴy вoт proвleм 🐍.
-- αѕĸ αɴy qυeѕтιoɴѕ 🦑.
-- 24 ʜᴏᴜяѕ αᴄᴛɪᴠє  ♻️.
-=========================================
-Stay Safe 🤗 🌱
-Bye 🌟"
+            "value": ""
         },
         "START_STICKER": {
             "description": "Start Sticker Bot Api",
