@@ -53,7 +53,7 @@ START_BUTTON = InlineKeyboardMarkup([[
                  InlineKeyboardButton('Eɴᴜᴋᴀ Pᴀᴛʜɪʀᴀɴᴀɢᴇ 🇱🇰', url="https://t.me/xEnuka")
                  ],
                  [
-                 InlineKeyboardButton(text="🌴 ʜᴇʟᴘ 🌴",callback_data="hlp")
+                 InlineKeyboardButton(text="🌴 ʜᴇʟᴘ 🌴",callback_data="අපි තමයි හොදටම කොරේ")
                  ],
                  [
                  InlineKeyboardButton("🍄 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 🍄", url="https://github.com/Enukx") 
